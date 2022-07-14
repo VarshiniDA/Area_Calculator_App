@@ -1,0 +1,4 @@
+##REQUIREMENTS##
+-> Python 3.X
+-> tkinter module
+-> math module
